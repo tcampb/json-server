@@ -12,5 +12,19 @@
       "name": "Costa Rica",
       "id": "435"
     }
+  ],
+  "trip": [
+    {
+      "name": "Japan",
+      "id": "123"
+    },
+    {
+      "name": "Italy",
+      "id": "456"
+    },
+    {
+      "name": "Costa Rica",
+      "id": "435"
+    }
   ]
 }
